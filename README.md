@@ -7,9 +7,9 @@ This script finds connection between two articles on Wikipedia in 3 steps (if po
 - download project files in a single folder
 - install python 3+ if neccessary
 - in python use this command: **pip install -r requirements**  (if any issues, install packages manually or use IDE and store all scripts in one project)
-- run main.py 
+- run main.py in terminal
 
-The script checks if there are links set in the settings.py, if no - asks for links in console.
+The script checks if there are links set in the settings.py, if no - asks for links in console. 
 
 # Functions
 
