@@ -1,6 +1,6 @@
 # wiki_connect_two_articles
 
-This script finds connection between two articles on Wikipedia
+This script finds connection between two articles on Wikipedia in 3 steps (if possible)
 
 # How to set up
 
